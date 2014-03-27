@@ -14,7 +14,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>##fffdff</string>
+				<string>#fffdff</string>
 				<key>caret</key>
 				<string>#000000</string>
 				<key>foreground</key>
@@ -124,7 +124,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#00abab</string>
+				<string>#44bbc5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -137,7 +137,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#1aabab</string>
+				<string>#44bbc5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -161,7 +161,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#1aabab</string>
+				<string>#44bbc5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -185,7 +185,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#c31c3a</string>
+				<string>#b81b3b</string>
 			</dict>
 		</dict>
 		<dict>
@@ -198,7 +198,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#0F8787</string>
+				<string>#44bbc5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -413,7 +413,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#1bacab</string>
+				<string>#44bbc5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -426,7 +426,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#1bacab</string>
+				<string>#44bbc5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -450,7 +450,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CF1040</string>
+				<string>#b81b3b</string>
 			</dict>
 		</dict>
 		<dict>
@@ -498,7 +498,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#1bacab</string>
+				<string>#44bbc5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -537,7 +537,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#1bacab</string>
+				<string>#44bbc5</string>
 			</dict>
 		</dict>
 		<dict>
